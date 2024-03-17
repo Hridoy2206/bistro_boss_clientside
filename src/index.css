@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .padding {
+        @apply px-20
+    }
+}
+
+.active{
+   @apply lg:text-yellow-300 text-blue-600
+}
