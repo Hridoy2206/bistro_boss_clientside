@@ -16,6 +16,7 @@
     "@tanstack/react-query": "^5.25.0",
     "axios": "^1.6.7",
     "firebase": "^10.8.1",
+    "firebase-tools": "^13.5.1",
     "flowbite": "^2.3.0",
     "lottie-react": "^2.4.0",
     "react": "^18.2.0",
